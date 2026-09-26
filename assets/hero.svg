@@ -29,8 +29,8 @@
     <rect x="38" y="113" width="346" height="21" class="cv" style="animation-duration:1.0s;animation-delay:1.3s;animation-timing-function:steps(38)"/>
     <text x="40" y="166" class="t" textLength="135" lengthAdjust="spacing"><tspan fill="#3fb950">$ </tspan><tspan fill="#e6edf3">cat stack.txt</tspan></text>
     <rect x="38" y="151" width="139" height="21" class="cv" style="animation-duration:0.8s;animation-delay:2.6s;animation-timing-function:steps(15)"/>
-    <text x="40" y="194" class="t" textLength="342" lengthAdjust="spacing"><tspan fill="#7d8590">React  Next  Bun  Hono  Rust  Postgres</tspan></text>
-    <rect x="38" y="179" width="346" height="21" class="cv" style="animation-duration:1.0s;animation-delay:3.6s;animation-timing-function:steps(38)"/>
+    <text x="40" y="194" class="t" textLength="369" lengthAdjust="spacing"><tspan fill="#7d8590">TypeScript React Hono PostgreSQL Bun Next</tspan></text>
+    <rect x="38" y="179" width="373" height="21" class="cv" style="animation-duration:1.0s;animation-delay:3.6s;animation-timing-function:steps(41)"/>
     <text x="40" y="232" class="t" textLength="126" lengthAdjust="spacing"><tspan fill="#3fb950">$ </tspan><tspan fill="#e6edf3">./ship --now</tspan></text>
     <rect x="38" y="217" width="130" height="21" class="cv" style="animation-duration:0.8s;animation-delay:4.9s;animation-timing-function:steps(14)"/>
     <text x="40" y="260" class="t" textLength="252" lengthAdjust="spacing"><tspan fill="#3fb950">deploying ideas &#8594; production</tspan></text>
